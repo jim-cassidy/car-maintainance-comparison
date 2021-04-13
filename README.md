@@ -11,5 +11,5 @@ deep learning.  The curve of maintainence and repairs tends to go up in a round
 trend.  I could use either polynomial or logarithmic regression.  For this, logarithmic
 regression seems to work best, because the costs tent to peak.
 
-( https://github.com/jim-cassidy/car-maintainance-comparison/blob/main/images/allcars.png )
+![alt text](https://github.com/jim-cassidy/car-maintainance-comparison/blob/main/images/allcars.png)
 
